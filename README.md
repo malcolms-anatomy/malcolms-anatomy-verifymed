@@ -150,7 +150,7 @@ For questions or feedback, please contact:
 
 - **Malcolm Chikadibia Iheremelam**  
   Email: [admin@malcolmsanatomy.com.ng](mailto:admin@malcolmsanatomy.com.ng)  
-  GitHub: [your_github_username](https://github.com/malcolms-anatomy)
+  GitHub: [malcolms-anatomy](https://github.com/malcolms-anatomy)
 
 ---
 
